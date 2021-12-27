@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.11)
 project(CGFX_LAB5)
 find_package(OpenGL REQUIRED)
 find_package(SFML COMPONENTS system window graphics REQUIRED)
